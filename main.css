@@ -1,0 +1,46 @@
+body{
+    background-color: cornsilk;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    gap: 10px;
+    
+}
+
+.resaltar:hover{
+    border: 3px solid gray;
+
+}
+
+header {
+    background-color: rgb(67, 67, 107);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border: none;
+    
+}
+
+.centrar
+{
+    margin-left: 400px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.plateado{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, #333);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
