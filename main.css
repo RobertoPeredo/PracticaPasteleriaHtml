@@ -1,14 +1,14 @@
-body{
+body {
     background-color: cornsilk;
 }
 
-.grid
-{display: grid;
+.grid {
+    display: grid;
  grid-template-columns: 300px 300px;
  gap: 10px;
 }
 
-.resaltar:hover{
+.resaltar:hover {
     border: 3px solid gray;
 }
 
@@ -21,8 +21,7 @@ header {
     border: none;
 }
 
-.centrar
-{
+.centrar {
     margin-left: 400px;
 }
 
@@ -33,7 +32,7 @@ footer {
     color: white;
 }
 
-.plateado{
+.plateado {
     font-size: 72px;
     background: -webkit-linear-gradient(#eee, #333);
     background-clip: text;
