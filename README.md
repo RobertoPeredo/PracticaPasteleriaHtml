@@ -3,7 +3,7 @@ Practica de LaunchX del módulo 2, utilizando las etiquetas básicas de HTML, as
 
 
 
-Los requerimeientos de esta practica se encuentran aqui...[Requerimientos]()https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/02%20-%20HTML/practicas
+Los requerimeientos de esta practica se encuentran aqui...[Requerimientos](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/02%20-%20HTML/practicas)
 
 
 En esta práctica pusimos aplicamos los conocimientos de HTML adquiridos en el módulo 2 de Launchx, esta práctica consistió en utilizar las etiquetas básicas
